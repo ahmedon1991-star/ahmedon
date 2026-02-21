@@ -1,0 +1,8 @@
+{
+  "name": "Al-Raqi for Food Products",
+  "description": "A premium e-commerce platform for high-quality food products, featuring an elegant Arabic interface, shopping cart, and a full admin management dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
